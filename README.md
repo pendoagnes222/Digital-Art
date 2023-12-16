@@ -1,7 +1,7 @@
-# Digital Art Studio - Creative Canvas
+# Digital Art - Creative Canvas
 
 
-Welcome to the Digital Art Studio – a cutting-edge app designed to unleash your creativity and transform your artistic visions into digital masterpieces. Whether you're a seasoned artist or just starting your creative journey, our app provides an intuitive and feature-rich platform for crafting stunning digital art.
+Welcome to the Digital Art – a cutting-edge app designed to unleash your creativity and transform your artistic visions into digital masterpieces. Whether you're a seasoned artist or just starting your creative journey, our app provides an intuitive and feature-rich platform for crafting stunning digital art.
 
 ## Key Features
 
