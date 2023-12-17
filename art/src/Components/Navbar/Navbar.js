@@ -51,9 +51,13 @@ class Navbar extends Component{
       </i>
         
      </div>
+     
      </nav>
      
-     <div className="home-text-section">
+
+         
+     
+     {/*<div className="home-text-section">
      
           <h1 className="primary-heading">
           Digital Art  <br />
@@ -71,7 +75,7 @@ class Navbar extends Component{
           <button className="secondary-button">
             Explore
           </button>
-        </div>
+  </div>*/}
      
     </>
   )
