@@ -1,6 +1,6 @@
 import {Component} from 'react';
 import "../Navbar/Navbar.css"
-import logo from '../Image/Rectangle 1.png'
+import logo from '../Image/Rectangle 1(1).png'
 import logoo from '../Image/ART.png'
 import Banner from '../Image/lion.jpeg'
 

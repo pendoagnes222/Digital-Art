@@ -1,0 +1,41 @@
+.card{
+    
+    display: flex;
+    
+    margin: auto;
+    
+}
+
+.card-container{
+    width: 80px;
+    
+}
+.slider{
+    background: white;
+    height: 90px;
+    color: black;
+    
+    
+
+}
+.card-slider{
+    background: #1834e9;
+    display: flex;
+    height: 56px;
+    justify-content: center;
+    justify-items: center;
+
+}
+.card-slider img{
+    width: 80px;
+    
+    
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    
+}
