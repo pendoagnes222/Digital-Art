@@ -24,7 +24,9 @@ background-color: #1A0E2E;
 
   .primary-text{
     font-size: 20px;
-    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    color: #bb10f9;
     margin: 55px;
     margin-left: 5px;
   }
