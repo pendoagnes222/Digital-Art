@@ -3,9 +3,9 @@ import '../Home/ImageSlider.css'
 
 const ImageSlider = () => {
   const imageLinks = [
-    '/Images/catb.jpeg',
-    '/Images/lionnn.jpeg',
-    '/Images/zebra5.png',
+    '/Images/cat.jpeg',
+    '/Images/lion.jpeg',
+    '/Images/zebra.png',
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
