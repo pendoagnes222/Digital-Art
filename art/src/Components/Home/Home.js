@@ -1,10 +1,11 @@
 import React from 'react'
 import Navbar from '../Navbar/Navbar'
 
+
 import '../Home/Home.css'
 
 import ImageSlider from './ImageSlider'
-import Card from './Cards/Card'
+import Card from './Cards/footer'
 
 
 const Home = () => {
@@ -13,7 +14,8 @@ const Home = () => {
       
       <Navbar />
       <ImageSlider  />
-      <Navbar />
+      <Card />
+      
       
       
       

@@ -37,12 +37,12 @@ const ImageSlider = () => {
      Digital Art  <br />
      Web & Digital Canvas
      </h1>
-     <p className="primary-text">
+     {/*<p className="primary-text">
      Welcome to our digital art designs!<br/>
      Explore a diverse collection of 
-     stunning digital artworks created <br/>by talented artists. Start your 
+     stunning artworks <br/>created by talented artists. Start your 
      artistic journey  with us today!
-     </p>
+  </p>*/}
       </div>
       
       </div>
