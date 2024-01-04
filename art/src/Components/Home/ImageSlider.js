@@ -1,5 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import '../Home/ImageSlider.css'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import {faGithubSquare, faLinkedin, faFacebookSquare, faTwitterSquare} from '@fortawesome/free-brands-svg-icons'
+
+
+
+
 
 const ImageSlider = () => {
   const imageLinks = [
@@ -21,7 +27,7 @@ const ImageSlider = () => {
 
     return () => clearInterval(intervalId);
   }, []);
-
+  
   return (
     <div className='image-slider'>
       <div className='image-container'>
@@ -43,8 +49,44 @@ const ImageSlider = () => {
      stunning artworks <br/>created by talented artists. Start your 
      artistic journey  with us today!
   </p>*/}
+      
+     
+            
+      
+    </div>
+    <div className='footer'>
+      <div className='footer-title'>
+      <p>Join Us</p>
       </div>
       
+    
+    
+    <div className='footer-socialmedia'>
+      <FontAwesomeIcon icon={faLinkedin} />
+      <FontAwesomeIcon icon={faGithubSquare} />
+      <FontAwesomeIcon icon={faFacebookSquare} />
+      <FontAwesomeIcon icon={faTwitterSquare} />
+      </div>
+      <div className='footer-below-links'>
+      <div><p>Home</p></div> 
+      <div><p>About</p></div>
+      <div><p>Blog</p></div>
+      <div><p>Contact</p></div>
+       
+          </div>
+      <hr></hr>
+      <div className='footer-below' > 
+      <div className='copyright'>
+          <p>
+          &copy;2023; Designed by Pendo.
+          </p>
+        </div>
+      
+      
+          </div>
+          </div>
+         
+
       </div>
       
       
